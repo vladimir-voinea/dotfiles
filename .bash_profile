@@ -6,3 +6,4 @@ alias gpt="sgpt --repl 'general'"
 export PATH="$PATH:/home/vladimir/.local/bin"
 export PATH="$HOME/neovim/bin:$PATH"
 alias v=nvim
+PATH="/home/vladimir/.cargo/bin:$PATH"
